@@ -1,0 +1,4 @@
+Em um sistema desktop, temos que ter uma imagem de fundo personalizada a cada resolução. Como são inumeras resoluções e obviamente não temos todas,
+em alguns notebooks por exemplo a imagem não aparece por completa, ficando cortada, a não ser que resolução seja alterada para algumas imagens 
+já personalizadas como exemplo a fundo1024.bmp que é 1024x768. Usando a FullScreen API, se o sistema fosse web, uma só imagem de fundo se adaptaria a 
+qualquer resolução.
